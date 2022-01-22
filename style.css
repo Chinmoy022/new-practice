@@ -1,0 +1,54 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.h-d-h1 {
+    color: yellowgreen;
+    background: blue;
+    text-align: center;
+}
+
+.h-d1-h1 {
+    color: rgb(22, 136, 243);
+    background: rgb(224, 15, 85);
+    text-align: center;
+}
+
+.m-s-d-p {
+    color: rgb(11, 109, 238);
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    letter-spacing: 8px;
+}
+
+.m-s-d-p1 {
+    color: rgb(124, 29, 231);
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: none;
+    word-spacing: 25px;
+}
+
+.m-s-d-p2 {
+    color: rgb(247, 15, 15);
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: capitalize;
+    text-decoration: none;
+    line-height: 55px;
+}
+
+.f {
+    float: right;
+}
